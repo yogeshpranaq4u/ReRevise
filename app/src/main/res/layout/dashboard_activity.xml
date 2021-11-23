@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/activity_lifecycle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Activity lifeCycle"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/service_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/activity_lifecycle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Service Activity" />
+
+    <Button
+        android:id="@+id/bound_service"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/service_activity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Binding Activity" />
+
+    <Button
+        android:id="@+id/intent_service"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bound_service"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Intent Service Activity" />
+
+    <Button
+        android:id="@+id/sms_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/intent_service"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Sms Activity" />
+
+    <Button
+        android:id="@+id/contact_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sms_activity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Contact Activity" />
+
+</RelativeLayout>
