@@ -6,13 +6,18 @@
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18888888888888888" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18888888888888888" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/api_activity.xml" value="0.1796875" />
+        <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/api_item_layout.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/binding_activity.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/cancel_dialog.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/contact_activity.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/contact_info.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/dashboard_activity.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/fragment_one.xml" value="0.1796875" />
+        <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/gallery_activity.xml" value="0.1796875" />
+        <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/gallery_item.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/intent_activity.xml" value="0.1796875" />
+        <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/map_activity.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/secondactivity.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/service_activity.xml" value="0.1796875" />
         <entry key="..\:/AndroidsProjects/Training/app/src/main/res/layout/sms_activity_layout.xml" value="0.1796875" />
